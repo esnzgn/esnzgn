@@ -30,6 +30,7 @@
 - 📚 **StatVisuals** – Interactive tutorials on stats & probability (R + Python)
 - 🍳 **CookWise** – Daily recipe recommender powered by ingredient-based Shiny app
 - 🗺️ **Explore Helsinki** – City explorer with map, travel modes & personalized filters
+- 🤖 **ModelMentor** – Demystifying Machine Learning Side-by-Side with R and Python
 
 ---
 
