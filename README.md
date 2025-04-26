@@ -87,10 +87,6 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter"/>
   <img src="https://img.shields.io/badge/-Quarto-5624E9?style=flat-square"/>
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown"/>
-</p>
-
-  **Writing & Docs**  
-<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab"/>
