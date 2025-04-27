@@ -27,10 +27,15 @@
 ### 🔭 Current Projects
 
 - 🧪 **PepBind** – Predicting peptide-compound interactions using thermal proteome profiling
+- 🧪 **ProteomiXplorer** – A dashboard to explore data from the landmark study "Quantitative Proteomics of the Cancer Cell Line Encyclopedia"
+- https://ehsan-zangene.shinyapps.io/ProteomiXplorer/
 - 📚 **StatVisuals** – Interactive tutorials on stats & probability (R + Python)
 - 🍳 **CookWise** – Daily recipe recommender powered by ingredient-based Shiny app
+- https://ehsan-zangene.shinyapps.io/CookWise/
 - 🗺️ **Explore Helsinki** – City explorer with map, travel modes & personalized filters
 - 🤖 **ModelMentor** – Demystifying Machine Learning Side-by-Side with R and Python
+- DORSSAA: An app to explore experimental targets of the drugs
+- https://dorssaa.it.helsinki.fi/
 
 ---
 
