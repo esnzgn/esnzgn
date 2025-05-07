@@ -36,6 +36,8 @@
 - 🤖 **ModelMentor** – Demystifying Machine Learning Side-by-Side with R and Python
 - DORSSAA: An app to explore experimental targets of the drugs
 - https://dorssaa.it.helsinki.fi/
+- **PepMod** - PepMod allows users to digest any UniProt protein in silico using trypsin, and simulate phosphorylation on S/T/Y residues.
+- https://ehsan-zangene.shinyapps.io/PepMod/
 
 ---
 
