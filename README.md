@@ -38,7 +38,7 @@
 - https://dorssaa.it.helsinki.fi/
 - **PepMod** - PepMod allows users to digest any UniProt protein in silico using trypsin, and simulate phosphorylation on S/T/Y residues.
 - https://ehsan-zangene.shinyapps.io/PepMod/
-- **Othter apps** in case you need to use some of not avilable apps just send me message to provide the source code or make it online for a temp peroid of time
+- **Othter apps** in the case you need to use some of not avilable apps just send me message to provide the source code or make it online for a temp peroid of time
 
 ---
 
