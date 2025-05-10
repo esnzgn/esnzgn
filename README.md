@@ -14,6 +14,16 @@
 
 ---
 
+### 🧠 About Me
+
+- 🎯 Specializing in cancer bioinformatics, synthetic lethality, and multi-omics data  
+- 🧰 Developer of research tools like **APSiC**, **SL-scan**, **NIMAA**, **CoPISA**  
+- 📊 Building visualizations with **ggplot2**, **Shiny**, **igraph**, and **Dash**  
+- 🌿 Passionate about open science, reproducibility, and scientific communication  
+- ✨ Also making soothing **mini pottery** videos with meditation music on Instagram  
+
+---
+
 ### 🧑‍🏫 Upcoming Courses I'm Teaching
 
 I'm excited to be an instructor for two hands-on online workshops organized by **Physalia Courses**:
@@ -29,16 +39,6 @@ I'm excited to be an instructor for two hands-on online workshops organized by *
   💡 You'll leave with reusable templates, R scripts, and the confidence to visualize complex data with elegance and clarity.
 
 📂 I’m also customizing the original [Physalia R Course repository](https://github.com/UEABIO/physalia-R-course/tree/2024) to match my teaching style and will make it publicly available soon on my GitHub for students and collaborators.
-
----
-
-### 🧠 About Me
-
-- 🎯 Specializing in cancer bioinformatics, synthetic lethality, and multi-omics data  
-- 🧰 Developer of research tools like **APSiC**, **SL-scan**, **NIMAA**, **CoPISA**  
-- 📊 Building visualizations with **ggplot2**, **Shiny**, **igraph**, and **Dash**  
-- 🌿 Passionate about open science, reproducibility, and scientific communication  
-- ✨ Also making soothing **mini pottery** videos with meditation music on Instagram  
 
 ---
 
