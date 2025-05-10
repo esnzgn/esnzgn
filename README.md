@@ -47,7 +47,6 @@ I was recently invited as a **mass spectrometry data analysis instructor** for t
 
 This repository contains the teaching materials for the **5th session** of the course, titled **“How Does MS Work?”**, which I taught on **April 24, 2025**. The session introduced the core principles and instrumentation of mass spectrometry.
 
-📍 **Date & Time**: April 24, 2025 — 10:00–12:00  
 📍 **Location**: Biomedicum 1, Room kok.3  
 📂 **Slides**: [View in this repository](https://github.com/esnzgn/MS-PROT/blob/main/mass-spectrometry-fundamentals-5thsession.pdf)  
 🔗 **Course repository**: [github.com/esnzgn/MS-PROT](https://github.com/esnzgn/MS-PROT)
