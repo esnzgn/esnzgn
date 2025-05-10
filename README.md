@@ -38,7 +38,7 @@ I'm excited to be an instructor for two hands-on online workshops organized by *
   📌 This 3-day workshop covers everything from tidy data wrangling to creating interactive dashboards using ggplot2, plotly, and shiny.  
   💡 You'll leave with reusable templates, R scripts, and the confidence to visualize complex data with elegance and clarity.
 
-📂 I’m also customizing the original [Physalia R Course repository](https://github.com/UEABIO/physalia-R-course/tree/2024) to match my teaching style and will make it publicly available soon on my GitHub for students and collaborators.
+📂 I’m currently customizing my course materials to match my teaching style and will soon publish the repository on my GitHub for students and collaborators.
 
 ---
 
