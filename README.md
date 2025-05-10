@@ -16,29 +16,40 @@
 
 ### 🧠 About Me
 
-- 🎯 Specializing in cancer bioinformatics, synthetic lethality, and multi-omics data
-- 🧰 Developer of research tools like **APSiC**, **SL-scan**, **NIMAA**, **CoPISA**
-- 📊 Building visualizations with **ggplot2**, **Shiny**, **igraph**, and **Dash**
-- 🌿 Passionate about open science, reproducibility, and scientific communication
-- ✨ Also making soothing **mini pottery** videos with meditation music on Instagram
+- 🎯 Specializing in cancer bioinformatics, synthetic lethality, and multi-omics data  
+- 🧰 Developer of research tools like **APSiC**, **SL-scan**, **NIMAA**, **CoPISA**  
+- 📊 Building visualizations with **ggplot2**, **Shiny**, **igraph**, and **Dash**  
+- 🌿 Passionate about open science, reproducibility, and scientific communication  
+- ✨ Also making soothing **mini pottery** videos with meditation music on Instagram  
+
+---
+
+### 🧑‍🏫 Teaching Highlights
+
+I am an instructor for upcoming workshops organized by Physalia Courses:
+
+- 🔬 [R for Biologists (Course 47)](https://www.physalia-courses.org/courses-workshops/course47/)  
+- 🧬 [Multi-Omics Data Integration (Course 56)](https://www.physalia-courses.org/courses-workshops/course56/)
+
+I am also preparing a customized version of the [Physalia R Course Repository](https://github.com/UEABIO/physalia-R-course/tree/2024) adapted to my teaching style, which will be published soon on my GitHub profile.
 
 ---
 
 ### 🔭 Current Projects
 
-- 🧪 **PepBind** – Predicting peptide-compound interactions using thermal proteome profiling
-- 🧪 **ProteomiXplorer** – A dashboard to explore data from the landmark study "Quantitative Proteomics of the Cancer Cell Line Encyclopedia"
-- https://ehsan-zangene.shinyapps.io/ProteomiXplorer/
-- 📚 **StatVisuals** – Interactive tutorials on stats & probability (R + Python)
-- 🍳 **CookWise** – Daily recipe recommender powered by ingredient-based Shiny app
-- https://ehsan-zangene.shinyapps.io/CookWise/
-- 🗺️ **Explore Helsinki** – City explorer with map, travel modes & personalized filters
-- 🤖 **ModelMentor** – Demystifying Machine Learning Side-by-Side with R and Python
-- DORSSAA: An app to explore experimental targets of the drugs
-- https://dorssaa.it.helsinki.fi/
-- **PepMod** - PepMod allows users to digest any UniProt protein in silico using trypsin, and simulate phosphorylation on S/T/Y residues.
-- https://ehsan-zangene.shinyapps.io/PepMod/
-- **Othter apps** in the case you need to use some of not avilable apps just send me message to provide the source code or make it online for a temp peroid of time
+- 🧪 **PepBind** – Predicting peptide-compound interactions using thermal proteome profiling  
+- 🧪 **ProteomiXplorer** – A dashboard to explore data from the landmark study "Quantitative Proteomics of the Cancer Cell Line Encyclopedia"  
+  https://ehsan-zangene.shinyapps.io/ProteomiXplorer/  
+- 📚 **StatVisuals** – Interactive tutorials on stats & probability (R + Python)  
+- 🍳 **CookWise** – Daily recipe recommender powered by ingredient-based Shiny app  
+  https://ehsan-zangene.shinyapps.io/CookWise/  
+- 🗺️ **Explore Helsinki** – City explorer with map, travel modes & personalized filters  
+- 🤖 **ModelMentor** – Demystifying Machine Learning Side-by-Side with R and Python  
+- 🧬 **DORSSAA** – An app to explore experimental targets of the drugs  
+  https://dorssaa.it.helsinki.fi/  
+- 🔬 **PepMod** – In silico digestion and phosphorylation simulation tool for UniProt proteins  
+  https://ehsan-zangene.shinyapps.io/PepMod/  
+- 🧰 **Other Apps** – Need access to apps not listed? Message me to get source code or temporary online versions  
 
 ---
 
@@ -53,13 +64,12 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp"/>
-<img src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia"/>
-<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks"/>
-
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia"/>
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks"/>
 </p>
 
-**Frameworks & Tools** 
+**Frameworks & Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/-Shiny-FF7043?style=flat-square&logo=rstudio"/>
   <img src="https://img.shields.io/badge/-Dash-003366?style=flat-square&logo=plotly"/>
@@ -80,7 +90,7 @@
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
 </p>
 
-  **Database & DevOps**  
+**Database & DevOps**  
 <p align="center">
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
@@ -89,7 +99,7 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-  **Writing & Docs**  
+**Writing & Docs**  
 <p align="center">
   <img src="https://img.shields.io/badge/-RMarkdown-2C5282?style=flat-square&logo=rstudio"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter"/>
