@@ -17,8 +17,8 @@
 ### 🧠 About Me
 
 - 🎯 Specializing in cancer bioinformatics, synthetic lethality, and multi-omics data  
-- 🧰 Developer of research tools like **APSiC**, **SL-scan**, **NIMAA**, **CoPISA**  
-- 📊 Building visualizations with **ggplot2**, **Shiny**, **igraph**, and **Dash**  
+- 🧰 Developer of research tools like **SL-scan**, **APSiC**, **NIMAA**, **CoPISA**  
+- 📊 Building visualizations with **Shiny**, **igraph**, and **Dash**  
 - 🌿 Passionate about open science, reproducibility, and scientific communication  
 - ✨ Also making soothing **mini pottery** videos with meditation music on Instagram  
 
