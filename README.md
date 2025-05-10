@@ -14,6 +14,24 @@
 
 ---
 
+### 🧑‍🏫 Upcoming Courses I'm Teaching
+
+I'm excited to be an instructor for two hands-on online workshops organized by **Physalia Courses**:
+
+- 🎯 **[Beyond Beginner R: Advancing Your Coding Skills](https://www.physalia-courses.org/courses-workshops/course47/)**  
+  🗓️ *27–30 May 2025 (Online)*  
+  📌 Designed for participants with basic R knowledge who want to level up their coding skills through practical, hands-on sessions.  
+  💡 Each session includes guided exercises and personalized support to overcome coding challenges and build confidence.
+
+- 📊 **[Data Visualization in R: From Data Wrangling to Interactive Plots](https://www.physalia-courses.org/courses-workshops/course56/)**  
+  🗓️ *30 June – 2 July 2025 (Online)*  
+  📌 This 3-day workshop covers everything from tidy data wrangling to creating interactive dashboards using ggplot2, plotly, and shiny.  
+  💡 You'll leave with reusable templates, R scripts, and the confidence to visualize complex data with elegance and clarity.
+
+📂 I’m also customizing the original [Physalia R Course repository](https://github.com/UEABIO/physalia-R-course/tree/2024) to match my teaching style and will make it publicly available soon on my GitHub for students and collaborators.
+
+---
+
 ### 🧠 About Me
 
 - 🎯 Specializing in cancer bioinformatics, synthetic lethality, and multi-omics data  
@@ -21,17 +39,6 @@
 - 📊 Building visualizations with **ggplot2**, **Shiny**, **igraph**, and **Dash**  
 - 🌿 Passionate about open science, reproducibility, and scientific communication  
 - ✨ Also making soothing **mini pottery** videos with meditation music on Instagram  
-
----
-
-### 🧑‍🏫 Teaching Highlights
-
-I am an instructor for upcoming workshops organized by Physalia Courses:
-
-- 🔬 [R for Biologists (Course 47)](https://www.physalia-courses.org/courses-workshops/course47/)  
-- 🧬 [Multi-Omics Data Integration (Course 56)](https://www.physalia-courses.org/courses-workshops/course56/)
-
-I am also preparing a customized version of the [Physalia R Course Repository](https://github.com/UEABIO/physalia-R-course/tree/2024) adapted to my teaching style, which will be published soon on my GitHub profile.
 
 ---
 
