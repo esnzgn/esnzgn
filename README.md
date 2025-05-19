@@ -67,7 +67,8 @@ This repository contains the teaching materials for the **5th session** of the c
   https://dorssaa.it.helsinki.fi/  
 - 🔬 **PepMod** – In silico digestion and phosphorylation simulation tool for UniProt proteins  
   https://ehsan-zangene.shinyapps.io/PepMod/  
-- 🧰 **Other Apps** – Need access to apps not listed? Message me to get source code or temporary online versions  
+- 🧰 **Other Apps** – Need access to apps not listed? Message me to get source code or temporary online versions
+  https://apsic.scicore.unibas.ch/
 
 ---
 
