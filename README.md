@@ -30,7 +30,8 @@ I'm excited to be an instructor for two hands-on online workshops organized by *
 
 - 🎯 **[Beyond Beginner R: Advancing Your Coding Skills](https://www.physalia-courses.org/courses-workshops/course47/)**  
   🗓️ *27–30 May 2025 (Online)*
-  *First day* (https://github.com/esnzgn/R_advanced/blob/main/course_days/R_Programming_Day_1_Penguin_Project.md)
+  *First day*
+  **(https://github.com/esnzgn/R_advanced/blob/main/course_days/R_Programming_Day_1_Penguin_Project.md)**
   📌 Designed for participants with basic R knowledge who want to level up their coding skills through practical, hands-on sessions.  
   💡 Each session includes guided exercises and personalized support to overcome coding challenges and build confidence.
 
