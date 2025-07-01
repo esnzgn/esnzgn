@@ -30,6 +30,7 @@ I'm excited to be an instructor for two hands-on online workshops organized by *
 
 - 🎯 **[Beyond Beginner R: Advancing Your Coding Skills](https://www.physalia-courses.org/courses-workshops/course47/)**  
   🗓️ *27–30 May 2025 (Online)*
+  
   *Git Repo*
   **(https://github.com/esnzgn/R_advanced)**
   📌 Designed for participants with basic R knowledge who want to level up their coding skills through practical, hands-on sessions.  
@@ -37,6 +38,7 @@ I'm excited to be an instructor for two hands-on online workshops organized by *
 
 - 📊 **[Data Visualization in R: From Data Wrangling to Interactive Plots](https://www.physalia-courses.org/courses-workshops/course56/)**  
   🗓️ *30 June – 2 July 2025 (Online)*
+  
   *Git Repo*
   **(https://github.com/esnzgn/DataViz-R-Course)**
   📌 This 3-day workshop covers everything from tidy data wrangling to creating interactive dashboards using ggplot2, plotly, and shiny.  
